@@ -1,0 +1,17 @@
+{
+  "name": "stencil-fragment",
+  "version": "1.0.0",
+  "description": "A simple implementation of React.Fragment in StencilJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stencil",
+    "stenciljs",
+    "fragment",
+    "react"
+  ],
+  "author": "Michael Auderer",
+  "license": "ISC"
+}
