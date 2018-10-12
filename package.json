@@ -1,6 +1,6 @@
 {
   "name": "stencil-fragment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple implementation of React.Fragment in StencilJS.",
   "main": "index.js",
   "scripts": {

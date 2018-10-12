@@ -8,6 +8,10 @@ Essentially, Fragment is an "empty element" which can hold child elements withou
 
 ## Usage
 
+```
+npm i stencil-fragment
+```
+
 ```tsx
 import Fragment from 'stencil-fragment'
 
